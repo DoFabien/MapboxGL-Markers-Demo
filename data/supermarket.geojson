@@ -1,0 +1,793 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-10-03T13:32:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/293998179",
+      "properties": {
+        "@id": "node/293998179",
+        "addr:city": "Grenoble",
+        "addr:housenumber": "22",
+        "addr:postcode": "38000",
+        "addr:street": "Rue de Strasbourg",
+        "contact:phone": "+33 4 76 47 10 46",
+        "name": "Spar",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 08:30-13:00",
+        "operator": "Spar",
+        "shop": "supermarket",
+        "source": "ticket de caisss (9/2012)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.731846,
+          45.1864228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/298872652",
+      "properties": {
+        "@id": "node/298872652",
+        "addr:city": "Grenoble",
+        "addr:housenumber": "26-28",
+        "addr:postcode": "38000",
+        "addr:street": "Cours Berriat",
+        "level": "-1",
+        "name": "Casino",
+        "opening_hours": "Mo-Sa 08:30-20:00; Su 08:30-12:30",
+        "operator": "Casino",
+        "phone": "+33 4 76 86 57 00",
+        "shop": "supermarket",
+        "source": "survey",
+        "website": "http://magasins.supercasino.fr/supermarche/grenoble/CS164",
+        "wheelchair": "yes",
+        "wikipedia": "fr:Enseignes du groupe Casino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7207564,
+          45.1883532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/391489782",
+      "properties": {
+        "@id": "node/391489782",
+        "operator": "Franprix",
+        "shop": "supermarket",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7220499,
+          45.18854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529100318",
+      "properties": {
+        "@id": "node/529100318",
+        "name": "Leader Market",
+        "operator": "Leader Price",
+        "shop": "supermarket",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour :2009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7511342,
+          45.1633753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/652825274",
+      "properties": {
+        "@id": "node/652825274",
+        "contact:phone": "+33 4 76 96 20 09",
+        "contact:website": "monoprix.fr",
+        "name": "Monoprix",
+        "opening_hours": "Mo-Sa 08:30-21:00",
+        "operator": "Groupe Casino",
+        "shop": "supermarket",
+        "wheelchair": "yes",
+        "wikipedia": "fr:Monoprix (France)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7153388,
+          45.1805534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/700239853",
+      "properties": {
+        "@id": "node/700239853",
+        "addr:city": "Saint-Martin-d'Hères",
+        "addr:country": "FR",
+        "addr:housenumber": "13",
+        "addr:postcode": "38400",
+        "addr:street": "Place du 24 Avril 1915",
+        "contact:phone": "+33 4 76 00 71 75",
+        "name": "Utile",
+        "operator": "Système U",
+        "shop": "supermarket",
+        "source": "ticket de caisss (9/2012)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.749548,
+          45.1853898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/858388918",
+      "properties": {
+        "@id": "node/858388918",
+        "name": "Simply Market",
+        "operator": "Simply Market",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.719765,
+          45.1809167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/958192848",
+      "properties": {
+        "@id": "node/958192848",
+        "name": "Petit Casino",
+        "operator": "Casino",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7381162,
+          45.1984845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/959630000",
+      "properties": {
+        "@id": "node/959630000",
+        "name": "Lidl",
+        "operator": "Lidl",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7616756,
+          45.18696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1142119320",
+      "properties": {
+        "@id": "node/1142119320",
+        "name": "Picard",
+        "shop": "supermarket",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7319582,
+          45.1821751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1307885916",
+      "properties": {
+        "@id": "node/1307885916",
+        "name": "Marché Franprix",
+        "operator": "Franprix",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7137905,
+          45.1858021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1472174701",
+      "properties": {
+        "@id": "node/1472174701",
+        "addr:city": "Grenoble",
+        "addr:street": "Avenue Alsace Lorraine",
+        "contact:phone": "+33 4 76 50 00 22",
+        "name": "Casino Shop",
+        "opening_hours": "Mo-Sa 07:00-21:15",
+        "operator": "Casino",
+        "shop": "supermarket",
+        "source": "ticket de caisss (9/2012)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7171139,
+          45.1900412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1627099856",
+      "properties": {
+        "@id": "node/1627099856",
+        "addr:city": "Grenoble",
+        "addr:housenumber": "31",
+        "addr:postcode": "38000",
+        "addr:street": "Cours Jean Jaurès",
+        "name": "DIA",
+        "operator": "DIA",
+        "shop": "supermarket",
+        "source": "survey",
+        "website": "http://www.dia.fr/trouver-un-magasin/detail-de-magasin/magasin/dia-grenoble-jean-jaures/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7192223,
+          45.1875603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1697821864",
+      "properties": {
+        "@id": "node/1697821864",
+        "addr:city": "Grenoble",
+        "addr:postcode": "38000",
+        "addr:street": "Cours Jean Jaurès",
+        "contact:phone": "+33 4 76 12 91 44",
+        "contact:website": "www.carrefour.fr",
+        "name": "Carrefour City",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 09:00-13:00",
+        "operator": "Carrefour",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7195572,
+          45.1905239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1831969760",
+      "properties": {
+        "@id": "node/1831969760",
+        "name": "Casino",
+        "operator": "Casino",
+        "shop": "supermarket",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7117482,
+          45.1804048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1935746864",
+      "properties": {
+        "@id": "node/1935746864",
+        "name": "Simply Market",
+        "operator": "Simply Market",
+        "shop": "supermarket",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7264415,
+          45.1794643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1993647374",
+      "properties": {
+        "@id": "node/1993647374",
+        "name": "Casino",
+        "opening_hours": "Mo-Sa 08:30-19:30",
+        "operator": "Casino",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.692478,
+          45.1763265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2160185815",
+      "properties": {
+        "@id": "node/2160185815",
+        "name": "Petit Casino",
+        "opening_hours": "Tu-Sa 08:00-13:00,15:30-19:30; Su 08:30-12:30",
+        "operator": "Casino",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6970309,
+          45.1732141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2203224919",
+      "properties": {
+        "@id": "node/2203224919",
+        "name": "Petit Casino",
+        "operator": "Casino",
+        "shop": "supermarket",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7071238,
+          45.1886611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2210539506",
+      "properties": {
+        "@id": "node/2210539506",
+        "name": "Max Market Italiano",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6936039,
+          45.1789608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2321783117",
+      "properties": {
+        "@id": "node/2321783117",
+        "cuisine": "international",
+        "name": "Orange",
+        "shop": "supermarket",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7275597,
+          45.190697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2361487680",
+      "properties": {
+        "@id": "node/2361487680",
+        "name": "SPAR",
+        "operator": "Spar",
+        "shop": "supermarket",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7219975,
+          45.1911708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2387382723",
+      "properties": {
+        "@id": "node/2387382723",
+        "name": "Petit Casino",
+        "operator": "Casino",
+        "shop": "supermarket",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7269075,
+          45.1912839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2388638747",
+      "properties": {
+        "@id": "node/2388638747",
+        "addr:city": "Grenoble",
+        "addr:housenumber": "17-19",
+        "addr:postcode": "38000",
+        "addr:street": "Grande Rue",
+        "name": "Bio c' Bon",
+        "opening_hours": "Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 09:00-13:00",
+        "organic": "only",
+        "phone": "+33 4 76 54 10 55",
+        "shop": "supermarket",
+        "website": "http://bio-c-bon.eu/fr/nos_magasins/bio-c-bon-grenoble"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7285818,
+          45.1918388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2415879869",
+      "properties": {
+        "@id": "node/2415879869",
+        "name": "Franprix",
+        "operator": "Franprix",
+        "shop": "supermarket",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7265755,
+          45.1889535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2498359133",
+      "properties": {
+        "@id": "node/2498359133",
+        "name": "Eissa Super Store",
+        "shop": "supermarket",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7303974,
+          45.1930018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2520914303",
+      "properties": {
+        "@id": "node/2520914303",
+        "name": "DALI Market",
+        "shop": "supermarket",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.731305,
+          45.1598732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2616081113",
+      "properties": {
+        "@id": "node/2616081113",
+        "name": "Carrefour Express",
+        "shop": "supermarket",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7312026,
+          45.1867305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2685658734",
+      "properties": {
+        "@id": "node/2685658734",
+        "addr:city": "La Tronche",
+        "addr:housenumber": "6",
+        "addr:postcode": "38700",
+        "addr:street": "Rue Jean de la Fontaine",
+        "name": "Proxi",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7536741,
+          45.2023041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2756579020",
+      "properties": {
+        "@id": "node/2756579020",
+        "name": "Picard",
+        "shop": "supermarket",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7293027,
+          45.1879358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2857595089",
+      "properties": {
+        "@id": "node/2857595089",
+        "name": "Picard",
+        "shop": "supermarket",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7175221,
+          45.1849158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3048042861",
+      "properties": {
+        "@id": "node/3048042861",
+        "name": "Bliss",
+        "shop": "supermarket",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7307528,
+          45.1917946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3048042925",
+      "properties": {
+        "@id": "node/3048042925",
+        "name": "Petit Casino",
+        "shop": "supermarket",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.730333,
+          45.1923188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3344841823",
+      "properties": {
+        "@id": "node/3344841823",
+        "name": "Carrefour Grenoble Meylan",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7643757,
+          45.2031704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3763724786",
+      "properties": {
+        "@id": "node/3763724786",
+        "name": "Alimentation Générale Primeur",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7358372,
+          45.1786129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3844346134",
+      "properties": {
+        "@id": "node/3844346134",
+        "name": "Biocoop",
+        "organic": "only",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7398013,
+          45.170403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3874481257",
+      "properties": {
+        "@id": "node/3874481257",
+        "name": "Dia",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6940435,
+          45.1901677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3874502283",
+      "properties": {
+        "@id": "node/3874502283",
+        "operator": "Casino",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7087159,
+          45.1909598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3910936933",
+      "properties": {
+        "@id": "node/3910936933",
+        "name": "Carrefour City",
+        "operator": "Carrefour",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7314109,
+          45.1817376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4088447702",
+      "properties": {
+        "@id": "node/4088447702",
+        "name": "Leader Price",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7730548,
+          45.2060455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4221545389",
+      "properties": {
+        "@id": "node/4221545389",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 08:30-19:30",
+        "phone": "0800005435",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7222946,
+          45.1722165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4256095732",
+      "properties": {
+        "@id": "node/4256095732",
+        "addr:city": "Meylan",
+        "addr:housenumber": "77",
+        "addr:postcode": "38240",
+        "addr:street": "Avenue du Grésivaudan",
+        "name": "Picard",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7551896,
+          45.2070027
+        ]
+      }
+    }
+  ]
+}

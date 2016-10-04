@@ -1,0 +1,53 @@
+<html>
+
+<head>
+    <meta charset='utf-8' />
+    <title>MapboxGl Markers</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.25.1/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.25.1/mapbox-gl.css' rel='stylesheet' />
+
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+    <link href="lib/ExtraMarkers/css/leaflet.extra-markers.css" rel="stylesheet" />
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://code.getmdl.io/1.2.1/material.indigo-pink.min.css">
+    <script defer src="https://code.getmdl.io/1.2.1/material.min.js"></script>
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+        
+        #map {
+            position: absolute;
+            top: 50px;
+            bottom: 0;
+            width: 100%;
+        }
+        
+        .header {
+            padding: 8px;
+            height: 50px;
+            width: 100%;
+        }
+        
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored" onclick="drawDomMarker()">Dom Markers (44) </button>
+        <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored" onclick="drawWebGLMarker()"> WebGL Markers (5447) </button>
+    </div>
+    <div id='map'></div>
+    <script src="app.js"></script>
+
+
+
+</body>
+
+</html>
